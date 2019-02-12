@@ -23,16 +23,16 @@ More:
 
 Hello world:
 
-![](images/scratch/buzzer-beep.png)
+![](images/scratch/led-blink.png)
 
 More:
 
 | Action            | Block                                   |
 | ----------------- |:--------------------------------------- |
-| ON                | ![](images/scratch/buzzer-on.png)       |
-| OFF               | ![](images/scratch/buzzer-off.png)      |
-| BLINK 2 SECONDS   | ![](images/scratch/buzzer-beep-2.png)   |
-| BLINK 0.1 SECONDS | ![](images/scratch/buzzer-beep-0.1.png) |
+| ON                | ![](images/scratch/led-on.png)       |
+| OFF               | ![](images/scratch/led-off.png)      |
+| BEEP 2 SECONDS    | ![](images/scratch/led-blink-2.png)   |
+| BEEP 0.1 SECONDS  | ![](images/scratch/led-blink-0.1.png) |
 
 ### Button
 
@@ -64,7 +64,7 @@ Press the button to light the LED:
 
 Press the button to buzz the Buzzer:
 
-![](images/scratch/buzzer-button.png)
+![](images/scratch/led-button.png)
 
 ### Reaction game
 
